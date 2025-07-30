@@ -5,7 +5,7 @@
 🚀 I’ve worked on live production apps involving:
 - **Server-side rendering (SSR)** using Twig & HTML/CSS
 - **Data visualization** with Power BI and D3.js
-- **Third-party integrations** like Stripe, Chart.js
+- **Third-party integrations** like Stripe, PKCE login, Chart.js
 - **Performance optimization**, including reducing PDF render time by over 60%
 
 🎯 I enjoy solving real-world backend challenges, mentoring juniors, and working directly with clients to deliver reliable, high-performance systems.
@@ -17,7 +17,7 @@
 ---
 
 🛠️ **Tech Stack**
-`Node.js` • `NestJS` • `Express.js` • `JavaScript` • `TypeScript` • `MySQL` • `Redis` • `Vue.js` • `SSR` • `Docker` • `Power BI` • `D3.js` • `Twig`
+`Node.js` • `NestJS` • `Express.js` • `JavaScript` • `TypeScript` • `MySQL` • `Redis` • `Vue.js` • `SSR` • `Docker` • `Power BI` • `D3.js` • `Twig` • `PKCE`
 
 ---
 
